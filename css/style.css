@@ -1,0 +1,13 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+
+/* welcome */
+.welcome{
+    height: 100vh;
+    /* width: 100vw; */
+    background-image: url("../img/placeholder.png");
+    background-size: cover;
+    background-position: center;
+}
