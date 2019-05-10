@@ -152,7 +152,7 @@ footer{
     background-image: url("../img/bicycle.jpeg");
 }
 .award-5{
-    background-image: url("../img/zoo.jpeg");
+    background-image: url("../img/pool.jpeg");
 }
 
 .award-6{
@@ -161,4 +161,17 @@ footer{
 
 .challeges-container div{
     margin-bottom: 50px;
+}
+
+.about-steps-container{
+    font-size: 1.3rem;
+}
+@media(max-width:560px){
+    .next-steps-div{
+        text-align: center;
+    }
+
+    .next-steps-div ol{
+        list-style: none;
+    }
 }
