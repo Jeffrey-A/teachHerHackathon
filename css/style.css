@@ -57,6 +57,7 @@ h3{
 .awards-item{
     width: 300px;
     height: 300px;
+    margin-bottom: 50px;
 
 }
 
@@ -74,6 +75,7 @@ h3{
 .awards{
     background-color: #E8A747;
     color: #fff;
+    padding-bottom: 150px;
 }
 
 .challenges{
